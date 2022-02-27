@@ -31,7 +31,7 @@ Install npm packages via $ npm i
 
 Navigate to the directory with the README Generator installed, and run node index. Answer the questions, and move the new README file into the appropriate directory/repo.
 
-<a href=" ">Usage Video </a>
+<a href="https://drive.google.com/file/d/1J8osjgZjrOl07oqzVquBZtJ_nvZRgtnt/view?usp=sharing">Usage Video </a>
 
 ## License
 

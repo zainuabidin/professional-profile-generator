@@ -1,11 +1,11 @@
-# d
-  <img src="https://img.shields.io/badge/license-MIT-critical.svg">
+# readme generator
+  <img src="https://img.shields.io/badge/license-APACHE 2.0-critical.svg">
  
   
   
 
   ## Description
-  d
+  it dunaically created a readme file for your projects
 
   ## Table of Contents
 
@@ -22,31 +22,31 @@
 
 
 ## Installation
-d
+ Inquirer package
 
 
 ## Usage  
-d
+ Not applicable
 
 
 
 ## License
     
-    This project is licensed under MIT
+    This project is licensed under APACHE 2.0
 
 
 
 ## Contribution 
-d
+zain Ul Abidin
 
 
 ## Tests 
-d
+Not applicable
 
 
 ## Questions 
 Feel free to contact me with any questions or feedback:
-- GitHub: [d](https://github.com/d)
+- GitHub: [zainuabidin](https://github.com/zainuabidin)
 - Email: <xan.abdn@gmail.com>
 
 
