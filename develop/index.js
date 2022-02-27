@@ -27,7 +27,41 @@ const questions = [
     },
    { type:'input',
         name:'installation',
-        message:'What packages did you install'}
+        message:'What packages did you install'
+    },
+    {
+        type: "input",
+        name: "usage",
+        message: "What usage information is required?",
+      },
+
+      {
+        type: 'input',
+        name: 'contribution',
+        message:
+            'Please provide contribution guidelines',
+    },
+
+    {
+        type: 'input',
+        name: 'test',
+        message: 'Please provide instructions for testing',
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'What is your email address?',
+        default: 'xan.abdn@gmail.com',
+    },
+
+    {
+        type: 'input',
+        name: 'ghUser',
+        message: 'What is your GitHub username?',
+        default: 'zainuabidin',
+    },
+      
+
 
 ];
 
