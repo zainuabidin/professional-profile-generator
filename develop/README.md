@@ -1,9 +1,11 @@
-# 
+# d
   <img src="https://img.shields.io/badge/license-MIT-critical.svg">
-  * [License](#license)
+ 
+  
+  
 
   ## Description
-  
+  d
 
   ## Table of Contents
 
@@ -13,34 +15,38 @@
 
 * [License](#license)
 
-*[Tests](#Tests)
+* [Tests](#Tests)
 
 * [Questions](#Questions)
   
 
 
 ## Installation
- Inquirer package
+d
+
 
 ## Usage  
- Not applicable
+d
+
 
 
 ## License
-MIT
+    
+    This project is licensed under MIT
+
 
 
 ## Contribution 
-zain Ul Abidin
+d
 
 
 ## Tests 
-
+d
 
 
 ## Questions 
 Feel free to contact me with any questions or feedback:
-- GitHub: [zainuabidin](https://github.com/zainuabidin)
+- GitHub: [d](https://github.com/d)
 - Email: <xan.abdn@gmail.com>
 
 
@@ -48,8 +54,6 @@ Feel free to contact me with any questions or feedback:
 
 
 
-## License
-    
-    This project is licensed under MIT
+
 
   

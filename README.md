@@ -1,31 +1,57 @@
-# professional-profile-generator
+#
 
-Description, 
-Table of Contents, 
-Installation, 
-Usage,
- License,
-  Contributing, 
-  Tests, and 
-  Questions
+  <img src="https://img.shields.io/badge/license-MIT-critical.svg">
 
 
-WHEN I enter my project title
-THEN this is displayed as the title of the README
+## Description
 
+When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 
-WHEN I enter a description, installation instructions, usage information, 
+This is a command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package
 
+## Table of Contents
 
-contribution guidelines, and test instructions
+- [Installation](#installation)
 
+- [Usage](#usage)
 
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+- [License](#license)
 
+- [Tests](#Tests)
 
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+- [Questions](#Questions)
 
+## Installation
 
-```
+Clone the repo
+CD into Develop folder
+Install npm packages via $ npm i
+
+## Usage
+
+Navigate to the directory with the README Generator installed, and run node index. Answer the questions, and move the new README file into the appropriate directory/repo.
+
+<a href=" ">Usage Video </a>
+
+## License
+
+MIT
+
+## Contribution
+
+zain Ul Abidin
+
+## Tests
+
+Not applicable at this time.
+
+## Questions
+
+Feel free to contact me with any questions or feedback:
+
+- GitHub: [zainuabidin](https://github.com/zainuabidin)
+- Email: <xan.abdn@gmail.com>
+
+## License
+
+    This project is licensed under MIT
