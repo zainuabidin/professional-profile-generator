@@ -24,7 +24,10 @@ const questions = [
         choices:['MIT','ISC','GNU','APACHE 2.0','NO LICENSE']
 
 
-    }
+    },
+   { type:'input',
+        name:'installation',
+        message:'What packages did you install'}
 
 ];
 
