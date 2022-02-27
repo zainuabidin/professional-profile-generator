@@ -1,9 +1,9 @@
-# xs
+# 
   <img src="https://img.shields.io/badge/license-MIT-critical.svg">
- 
+  * [License](#license)
 
   ## Description
-  xs
+  
 
   ## Table of Contents
 
@@ -13,17 +13,17 @@
 
 * [License](#license)
 
-* [Tests](#Tests)
+*[Tests](#Tests)
 
 * [Questions](#Questions)
   
 
 
 ## Installation
-xsx
+ Inquirer package
 
 ## Usage  
-xsx
+ Not applicable
 
 
 ## License
@@ -31,11 +31,11 @@ MIT
 
 
 ## Contribution 
-xsxs
+zain Ul Abidin
 
 
 ## Tests 
-xsxs
+
 
 
 ## Questions 
